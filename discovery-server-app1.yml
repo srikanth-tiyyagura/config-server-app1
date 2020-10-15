@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: discovery-server-app1
+
+server:
+  port: 8761
+
+
